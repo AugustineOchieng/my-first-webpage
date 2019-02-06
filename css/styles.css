@@ -14,8 +14,14 @@ ul {
   line-height: 40px;
 }
 body{
-  background-color: ##D6C3C9;
+  background-color: #D6C3C9;
   font-size: 0.7em;
   font-style: 'Neucha', cursive;
   text-align: center;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: 100;
 }
